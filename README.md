@@ -13,10 +13,12 @@ You are able to save the cells and the data in the table is persisted. This func
 I. Register on Amadeus Developer and get access to their free open-source APIs we will use in this challenge:
 Step-by-step guide to get the keys https://developers.amadeus.com/register
 
-II. Create a form with two inputs: one for the city code and another one for the date. Add a submit button or icon.
+II. Create a form with inputs for: origin city code, destination city code, departure date, and departure time. Add a submit button or icon. The form should collect the necessary data to construct the API payload (originDestinations with originLocationCode, destinationLocationCode, and departureDateTime with date and time; travelers and sources can be set to default values).
 
-III. Using the values from the form do the API call to fetch Flight Inspirations 
-http://developers.amadeus.com/self-service/category/flights/api-doc/flight-inspiration-search/api-reference
+III. Using the values from the form do the API call to fetch Flight Availability 
+https://developers.amadeus.com/self-service/category/flights/api-doc/flight-availabilities-search/api-reference
+
+**Note:** Mock data is available in `src/mocks/flightAvailabilityMock.json` as a fallback if the API is unavailable.
 
 
 IV. Display the results of the call in the table you have in this codebase. Feel free to edit any code necessary, its just a blueprint. The only thing that you should pay attention is that cell edit/hightlight/save functionality is working.

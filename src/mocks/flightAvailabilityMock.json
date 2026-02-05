@@ -1,0 +1,2497 @@
+{
+    "meta": {
+      "count": 12
+    },
+    "data": [
+      {
+        "type": "flight-availability",
+        "id": "1",
+        "originDestinationId": "1",
+        "source": "GDS",
+        "instantTicketingRequired": false,
+        "paymentCardRequired": false,
+        "duration": "PT10H35M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "BOS",
+              "terminal": "E",
+              "at": "2026-11-14T20:25:00"
+            },
+            "arrival": {
+              "iataCode": "LHR",
+              "terminal": "4",
+              "at": "2026-11-15T08:05:00"
+            },
+            "carrierCode": "6X",
+            "number": "214",
+            "aircraft": {
+              "code": "772"
+            },
+            "id": "1",
+            "numberOfStops": 0,
+            "blacklistedInEU": false,
+            "availabilityClasses": [
+              {
+                "numberOfBookableSeats": 7,
+                "class": "F"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "J"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "D"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "I"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "W"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "Y"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "B"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "H"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "K"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "M"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "G"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "X"
+              }
+            ]
+          },
+          {
+            "departure": {
+              "iataCode": "LHR",
+              "at": "2026-11-15T10:30:00"
+            },
+            "arrival": {
+              "iataCode": "MAD",
+              "at": "2026-11-15T13:00:00"
+            },
+            "carrierCode": "6X",
+            "number": "9931",
+            "aircraft": {
+              "code": "320"
+            },
+            "id": "2",
+            "numberOfStops": 0,
+            "blacklistedInEU": false,
+            "availabilityClasses": [
+              {
+                "numberOfBookableSeats": 7,
+                "class": "J"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "D"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "I"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "Y"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "flight-availability",
+        "id": "2",
+        "originDestinationId": "1",
+        "source": "GDS",
+        "instantTicketingRequired": false,
+        "paymentCardRequired": false,
+        "duration": "PT16H35M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "BOS",
+              "terminal": "E",
+              "at": "2026-11-14T20:25:00"
+            },
+            "arrival": {
+              "iataCode": "LHR",
+              "terminal": "4",
+              "at": "2026-11-15T08:05:00"
+            },
+            "carrierCode": "6X",
+            "number": "214",
+            "aircraft": {
+              "code": "772"
+            },
+            "id": "3",
+            "numberOfStops": 0,
+            "blacklistedInEU": false,
+            "availabilityClasses": [
+              {
+                "numberOfBookableSeats": 7,
+                "class": "F"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "J"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "D"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "I"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "W"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "Y"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "B"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "H"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "K"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "M"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "G"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "X"
+              }
+            ]
+          },
+          {
+            "departure": {
+              "iataCode": "LHR",
+              "at": "2026-11-15T12:15:00"
+            },
+            "arrival": {
+              "iataCode": "CDG",
+              "at": "2026-11-15T14:25:00"
+            },
+            "carrierCode": "6X",
+            "number": "325",
+            "aircraft": {
+              "code": "319"
+            },
+            "id": "4",
+            "numberOfStops": 0,
+            "blacklistedInEU": false,
+            "availabilityClasses": [
+              {
+                "numberOfBookableSeats": 7,
+                "class": "C"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "D"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "I"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "Y"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "B"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "H"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "K"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "M"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "L"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "N"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "O"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "S"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "Q"
+              }
+            ]
+          },
+          {
+            "departure": {
+              "iataCode": "CDG",
+              "at": "2026-11-15T16:45:00"
+            },
+            "arrival": {
+              "iataCode": "MAD",
+              "at": "2026-11-15T19:00:00"
+            },
+            "carrierCode": "6X",
+            "number": "3868",
+            "aircraft": {
+              "code": "321"
+            },
+            "id": "5",
+            "numberOfStops": 0,
+            "blacklistedInEU": false,
+            "availabilityClasses": [
+              {
+                "numberOfBookableSeats": 7,
+                "class": "C"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "D"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "I"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "Y"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "B"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "H"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "K"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "M"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "L"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "N"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "O"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "Q"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "X"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "flight-availability",
+        "id": "3",
+        "originDestinationId": "1",
+        "source": "GDS",
+        "instantTicketingRequired": false,
+        "paymentCardRequired": false,
+        "duration": "PT16H35M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "BOS",
+              "terminal": "E",
+              "at": "2026-11-14T20:25:00"
+            },
+            "arrival": {
+              "iataCode": "LHR",
+              "terminal": "4",
+              "at": "2026-11-15T08:05:00"
+            },
+            "carrierCode": "6X",
+            "number": "214",
+            "aircraft": {
+              "code": "772"
+            },
+            "id": "6",
+            "numberOfStops": 0,
+            "blacklistedInEU": false,
+            "availabilityClasses": [
+              {
+                "numberOfBookableSeats": 7,
+                "class": "F"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "J"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "D"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "I"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "W"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "Y"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "B"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "H"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "K"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "M"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "G"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "X"
+              }
+            ]
+          },
+          {
+            "departure": {
+              "iataCode": "LHR",
+              "at": "2026-11-15T12:15:00"
+            },
+            "arrival": {
+              "iataCode": "CDG",
+              "at": "2026-11-15T14:25:00"
+            },
+            "carrierCode": "6X",
+            "number": "324",
+            "aircraft": {
+              "code": "319"
+            },
+            "id": "7",
+            "numberOfStops": 0,
+            "blacklistedInEU": false,
+            "availabilityClasses": [
+              {
+                "numberOfBookableSeats": 7,
+                "class": "C"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "D"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "I"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "Y"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "B"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "H"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "K"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "M"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "L"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "N"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "O"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "S"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "Q"
+              }
+            ]
+          },
+          {
+            "departure": {
+              "iataCode": "CDG",
+              "at": "2026-11-15T16:45:00"
+            },
+            "arrival": {
+              "iataCode": "MAD",
+              "at": "2026-11-15T19:00:00"
+            },
+            "carrierCode": "6X",
+            "number": "3868",
+            "aircraft": {
+              "code": "321"
+            },
+            "id": "8",
+            "numberOfStops": 0,
+            "blacklistedInEU": false,
+            "availabilityClasses": [
+              {
+                "numberOfBookableSeats": 7,
+                "class": "C"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "D"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "I"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "Y"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "B"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "H"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "K"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "M"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "L"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "N"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "O"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "Q"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "X"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "flight-availability",
+        "id": "4",
+        "originDestinationId": "1",
+        "source": "GDS",
+        "instantTicketingRequired": false,
+        "paymentCardRequired": false,
+        "duration": "PT16H35M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "BOS",
+              "terminal": "E",
+              "at": "2026-11-14T20:25:00"
+            },
+            "arrival": {
+              "iataCode": "LHR",
+              "terminal": "4",
+              "at": "2026-11-15T08:05:00"
+            },
+            "carrierCode": "6X",
+            "number": "214",
+            "aircraft": {
+              "code": "772"
+            },
+            "id": "9",
+            "numberOfStops": 0,
+            "blacklistedInEU": false,
+            "availabilityClasses": [
+              {
+                "numberOfBookableSeats": 7,
+                "class": "F"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "J"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "D"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "I"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "W"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "Y"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "B"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "H"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "K"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "M"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "G"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "X"
+              }
+            ]
+          },
+          {
+            "departure": {
+              "iataCode": "LHR",
+              "terminal": "4",
+              "at": "2026-11-15T12:15:00"
+            },
+            "arrival": {
+              "iataCode": "CDG",
+              "terminal": "1",
+              "at": "2026-11-15T14:25:00"
+            },
+            "carrierCode": "6X",
+            "number": "312",
+            "aircraft": {
+              "code": "319"
+            },
+            "id": "10",
+            "numberOfStops": 0,
+            "blacklistedInEU": false,
+            "availabilityClasses": [
+              {
+                "numberOfBookableSeats": 7,
+                "class": "C"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "D"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "I"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "Y"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "B"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "H"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "K"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "M"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "L"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "N"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "O"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "S"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "Q"
+              }
+            ]
+          },
+          {
+            "departure": {
+              "iataCode": "CDG",
+              "at": "2026-11-15T16:45:00"
+            },
+            "arrival": {
+              "iataCode": "MAD",
+              "at": "2026-11-15T19:00:00"
+            },
+            "carrierCode": "6X",
+            "number": "3868",
+            "aircraft": {
+              "code": "321"
+            },
+            "id": "11",
+            "numberOfStops": 0,
+            "blacklistedInEU": false,
+            "availabilityClasses": [
+              {
+                "numberOfBookableSeats": 7,
+                "class": "C"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "D"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "I"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "Y"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "B"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "H"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "K"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "M"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "L"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "N"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "O"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "Q"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "X"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "flight-availability",
+        "id": "5",
+        "originDestinationId": "1",
+        "source": "GDS",
+        "instantTicketingRequired": false,
+        "paymentCardRequired": false,
+        "duration": "PT16H35M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "BOS",
+              "terminal": "E",
+              "at": "2026-11-14T20:25:00"
+            },
+            "arrival": {
+              "iataCode": "LHR",
+              "terminal": "4",
+              "at": "2026-11-15T08:05:00"
+            },
+            "carrierCode": "6X",
+            "number": "214",
+            "aircraft": {
+              "code": "772"
+            },
+            "id": "12",
+            "numberOfStops": 0,
+            "blacklistedInEU": false,
+            "availabilityClasses": [
+              {
+                "numberOfBookableSeats": 7,
+                "class": "F"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "J"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "D"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "I"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "W"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "Y"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "B"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "H"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "K"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "M"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "G"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "X"
+              }
+            ]
+          },
+          {
+            "departure": {
+              "iataCode": "LHR",
+              "at": "2026-11-15T10:00:00"
+            },
+            "arrival": {
+              "iataCode": "CDG",
+              "at": "2026-11-15T14:30:00"
+            },
+            "carrierCode": "6X",
+            "number": "9462",
+            "aircraft": {
+              "code": "744"
+            },
+            "id": "13",
+            "numberOfStops": 0,
+            "blacklistedInEU": false,
+            "availabilityClasses": [
+              {
+                "numberOfBookableSeats": 7,
+                "class": "F"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "J"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "D"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "I"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "Y"
+              }
+            ]
+          },
+          {
+            "departure": {
+              "iataCode": "CDG",
+              "at": "2026-11-15T16:45:00"
+            },
+            "arrival": {
+              "iataCode": "MAD",
+              "at": "2026-11-15T19:00:00"
+            },
+            "carrierCode": "6X",
+            "number": "3868",
+            "aircraft": {
+              "code": "321"
+            },
+            "id": "14",
+            "numberOfStops": 0,
+            "blacklistedInEU": false,
+            "availabilityClasses": [
+              {
+                "numberOfBookableSeats": 7,
+                "class": "C"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "D"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "I"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "Y"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "B"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "H"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "K"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "M"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "L"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "N"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "O"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "Q"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "X"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "flight-availability",
+        "id": "6",
+        "originDestinationId": "1",
+        "source": "GDS",
+        "instantTicketingRequired": false,
+        "paymentCardRequired": false,
+        "duration": "PT16H35M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "BOS",
+              "terminal": "E",
+              "at": "2026-11-14T20:25:00"
+            },
+            "arrival": {
+              "iataCode": "LHR",
+              "terminal": "4",
+              "at": "2026-11-15T08:05:00"
+            },
+            "carrierCode": "6X",
+            "number": "214",
+            "aircraft": {
+              "code": "772"
+            },
+            "id": "15",
+            "numberOfStops": 0,
+            "blacklistedInEU": false,
+            "availabilityClasses": [
+              {
+                "numberOfBookableSeats": 7,
+                "class": "F"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "J"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "D"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "I"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "W"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "Y"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "B"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "H"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "K"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "M"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "G"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "X"
+              }
+            ]
+          },
+          {
+            "departure": {
+              "iataCode": "LHR",
+              "at": "2026-11-15T12:15:00"
+            },
+            "arrival": {
+              "iataCode": "CDG",
+              "at": "2026-11-15T14:25:00"
+            },
+            "carrierCode": "6X",
+            "number": "313",
+            "aircraft": {
+              "code": "319"
+            },
+            "id": "16",
+            "numberOfStops": 0,
+            "blacklistedInEU": false,
+            "availabilityClasses": [
+              {
+                "numberOfBookableSeats": 7,
+                "class": "C"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "D"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "I"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "Y"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "B"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "H"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "K"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "M"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "L"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "N"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "O"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "S"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "Q"
+              }
+            ]
+          },
+          {
+            "departure": {
+              "iataCode": "CDG",
+              "at": "2026-11-15T16:45:00"
+            },
+            "arrival": {
+              "iataCode": "MAD",
+              "at": "2026-11-15T19:00:00"
+            },
+            "carrierCode": "6X",
+            "number": "3868",
+            "aircraft": {
+              "code": "321"
+            },
+            "id": "17",
+            "numberOfStops": 0,
+            "blacklistedInEU": false,
+            "availabilityClasses": [
+              {
+                "numberOfBookableSeats": 7,
+                "class": "C"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "D"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "I"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "Y"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "B"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "H"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "K"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "M"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "L"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "N"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "O"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "Q"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "X"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "flight-availability",
+        "id": "7",
+        "originDestinationId": "1",
+        "source": "GDS",
+        "instantTicketingRequired": false,
+        "paymentCardRequired": false,
+        "duration": "PT16H35M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "BOS",
+              "terminal": "E",
+              "at": "2026-11-14T20:25:00"
+            },
+            "arrival": {
+              "iataCode": "LHR",
+              "terminal": "4",
+              "at": "2026-11-15T08:05:00"
+            },
+            "carrierCode": "6X",
+            "number": "214",
+            "aircraft": {
+              "code": "772"
+            },
+            "id": "18",
+            "numberOfStops": 0,
+            "blacklistedInEU": false,
+            "availabilityClasses": [
+              {
+                "numberOfBookableSeats": 7,
+                "class": "F"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "J"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "D"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "I"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "W"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "Y"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "B"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "H"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "K"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "M"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "G"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "X"
+              }
+            ]
+          },
+          {
+            "departure": {
+              "iataCode": "LHR",
+              "terminal": "4",
+              "at": "2026-11-15T09:15:00"
+            },
+            "arrival": {
+              "iataCode": "CDG",
+              "terminal": "1",
+              "at": "2026-11-15T11:30:00"
+            },
+            "carrierCode": "6X",
+            "number": "306",
+            "aircraft": {
+              "code": "319"
+            },
+            "id": "19",
+            "numberOfStops": 0,
+            "blacklistedInEU": false,
+            "availabilityClasses": [
+              {
+                "numberOfBookableSeats": 7,
+                "class": "C"
+              },
+              {
+                "numberOfBookableSeats": 1,
+                "class": "D"
+              },
+              {
+                "numberOfBookableSeats": 2,
+                "class": "U"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "Y"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "B"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "H"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "K"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "M"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "L"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "N"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "O"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "S"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "Q"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "G"
+              }
+            ]
+          },
+          {
+            "departure": {
+              "iataCode": "CDG",
+              "at": "2026-11-15T16:45:00"
+            },
+            "arrival": {
+              "iataCode": "MAD",
+              "at": "2026-11-15T19:00:00"
+            },
+            "carrierCode": "6X",
+            "number": "3868",
+            "aircraft": {
+              "code": "321"
+            },
+            "id": "20",
+            "numberOfStops": 0,
+            "blacklistedInEU": false,
+            "availabilityClasses": [
+              {
+                "numberOfBookableSeats": 7,
+                "class": "C"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "D"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "I"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "Y"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "B"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "H"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "K"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "M"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "L"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "N"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "O"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "Q"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "X"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "flight-availability",
+        "id": "8",
+        "originDestinationId": "1",
+        "source": "GDS",
+        "instantTicketingRequired": false,
+        "paymentCardRequired": false,
+        "duration": "PT16H35M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "BOS",
+              "terminal": "E",
+              "at": "2026-11-14T20:25:00"
+            },
+            "arrival": {
+              "iataCode": "LHR",
+              "terminal": "4",
+              "at": "2026-11-15T08:05:00"
+            },
+            "carrierCode": "6X",
+            "number": "214",
+            "aircraft": {
+              "code": "772"
+            },
+            "id": "21",
+            "numberOfStops": 0,
+            "blacklistedInEU": false,
+            "availabilityClasses": [
+              {
+                "numberOfBookableSeats": 7,
+                "class": "F"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "J"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "D"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "I"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "W"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "Y"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "B"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "H"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "K"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "M"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "G"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "X"
+              }
+            ]
+          },
+          {
+            "departure": {
+              "iataCode": "LHR",
+              "at": "2026-11-15T12:15:00"
+            },
+            "arrival": {
+              "iataCode": "CDG",
+              "at": "2026-11-15T14:25:00"
+            },
+            "carrierCode": "7X",
+            "number": "3612",
+            "aircraft": {
+              "code": "319"
+            },
+            "operating": {
+              "carrierCode": "6X"
+            },
+            "id": "22",
+            "numberOfStops": 0,
+            "blacklistedInEU": false,
+            "availabilityClasses": [
+              {
+                "numberOfBookableSeats": 1,
+                "class": "J"
+              },
+              {
+                "numberOfBookableSeats": 1,
+                "class": "D"
+              },
+              {
+                "numberOfBookableSeats": 1,
+                "class": "I"
+              },
+              {
+                "numberOfBookableSeats": 1,
+                "class": "U"
+              },
+              {
+                "numberOfBookableSeats": 1,
+                "class": "Y"
+              },
+              {
+                "numberOfBookableSeats": 1,
+                "class": "B"
+              },
+              {
+                "numberOfBookableSeats": 1,
+                "class": "H"
+              },
+              {
+                "numberOfBookableSeats": 1,
+                "class": "K"
+              },
+              {
+                "numberOfBookableSeats": 1,
+                "class": "M"
+              },
+              {
+                "numberOfBookableSeats": 1,
+                "class": "L"
+              },
+              {
+                "numberOfBookableSeats": 1,
+                "class": "S"
+              },
+              {
+                "numberOfBookableSeats": 1,
+                "class": "V"
+              },
+              {
+                "numberOfBookableSeats": 1,
+                "class": "O"
+              },
+              {
+                "numberOfBookableSeats": 1,
+                "class": "Q"
+              },
+              {
+                "numberOfBookableSeats": 1,
+                "class": "N"
+              },
+              {
+                "numberOfBookableSeats": 1,
+                "class": "G"
+              },
+              {
+                "numberOfBookableSeats": 1,
+                "class": "T"
+              },
+              {
+                "numberOfBookableSeats": 1,
+                "class": "X"
+              }
+            ]
+          },
+          {
+            "departure": {
+              "iataCode": "CDG",
+              "at": "2026-11-15T16:45:00"
+            },
+            "arrival": {
+              "iataCode": "MAD",
+              "at": "2026-11-15T19:00:00"
+            },
+            "carrierCode": "6X",
+            "number": "3868",
+            "aircraft": {
+              "code": "321"
+            },
+            "id": "23",
+            "numberOfStops": 0,
+            "blacklistedInEU": false,
+            "availabilityClasses": [
+              {
+                "numberOfBookableSeats": 7,
+                "class": "C"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "D"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "I"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "Y"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "B"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "H"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "K"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "M"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "L"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "N"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "O"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "Q"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "X"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "flight-availability",
+        "id": "9",
+        "originDestinationId": "1",
+        "source": "GDS",
+        "instantTicketingRequired": false,
+        "paymentCardRequired": false,
+        "duration": "PT16H50M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "BOS",
+              "terminal": "E",
+              "at": "2026-11-14T20:25:00"
+            },
+            "arrival": {
+              "iataCode": "LHR",
+              "terminal": "4",
+              "at": "2026-11-15T08:05:00"
+            },
+            "carrierCode": "6X",
+            "number": "214",
+            "aircraft": {
+              "code": "772"
+            },
+            "id": "24",
+            "numberOfStops": 0,
+            "blacklistedInEU": false,
+            "availabilityClasses": [
+              {
+                "numberOfBookableSeats": 7,
+                "class": "F"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "J"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "D"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "I"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "W"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "Y"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "B"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "H"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "K"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "M"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "G"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "X"
+              }
+            ]
+          },
+          {
+            "departure": {
+              "iataCode": "LHR",
+              "terminal": "4",
+              "at": "2026-11-15T09:15:00"
+            },
+            "arrival": {
+              "iataCode": "CDG",
+              "terminal": "1",
+              "at": "2026-11-15T11:30:00"
+            },
+            "carrierCode": "6X",
+            "number": "306",
+            "aircraft": {
+              "code": "319"
+            },
+            "id": "25",
+            "numberOfStops": 0,
+            "blacklistedInEU": false,
+            "availabilityClasses": [
+              {
+                "numberOfBookableSeats": 7,
+                "class": "C"
+              },
+              {
+                "numberOfBookableSeats": 1,
+                "class": "D"
+              },
+              {
+                "numberOfBookableSeats": 2,
+                "class": "U"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "Y"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "B"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "H"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "K"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "M"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "L"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "N"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "O"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "S"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "Q"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "G"
+              }
+            ]
+          },
+          {
+            "departure": {
+              "iataCode": "ORY",
+              "terminal": "1",
+              "at": "2026-11-15T17:15:00"
+            },
+            "arrival": {
+              "iataCode": "MAD",
+              "terminal": "2",
+              "at": "2026-11-15T19:15:00"
+            },
+            "carrierCode": "UX",
+            "number": "1222",
+            "aircraft": {
+              "code": "73H"
+            },
+            "id": "26",
+            "numberOfStops": 0,
+            "blacklistedInEU": false,
+            "availabilityClasses": [
+              {
+                "numberOfBookableSeats": 9,
+                "class": "J"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "C"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "D"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "I"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "O"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "Y"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "B"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "M"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "L"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "E"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "K"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "V"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "H"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "S"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "R"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "U"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "T"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "Q"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "P"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "flight-availability",
+        "id": "10",
+        "originDestinationId": "1",
+        "source": "GDS",
+        "instantTicketingRequired": false,
+        "paymentCardRequired": false,
+        "duration": "PT18H30M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "BOS",
+              "terminal": "E",
+              "at": "2026-11-14T20:25:00"
+            },
+            "arrival": {
+              "iataCode": "LHR",
+              "terminal": "4",
+              "at": "2026-11-15T08:05:00"
+            },
+            "carrierCode": "6X",
+            "number": "214",
+            "aircraft": {
+              "code": "772"
+            },
+            "id": "27",
+            "numberOfStops": 0,
+            "blacklistedInEU": false,
+            "availabilityClasses": [
+              {
+                "numberOfBookableSeats": 7,
+                "class": "F"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "J"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "D"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "I"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "W"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "Y"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "B"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "H"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "K"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "M"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "G"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "X"
+              }
+            ]
+          },
+          {
+            "departure": {
+              "iataCode": "LGW",
+              "terminal": "S",
+              "at": "2026-11-15T17:25:00"
+            },
+            "arrival": {
+              "iataCode": "MAD",
+              "terminal": "1",
+              "at": "2026-11-15T20:55:00"
+            },
+            "carrierCode": "UX",
+            "number": "1016",
+            "aircraft": {
+              "code": "7M8"
+            },
+            "id": "28",
+            "numberOfStops": 0,
+            "blacklistedInEU": false,
+            "availabilityClasses": [
+              {
+                "numberOfBookableSeats": 9,
+                "class": "J"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "C"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "D"
+              },
+              {
+                "numberOfBookableSeats": 5,
+                "class": "I"
+              },
+              {
+                "numberOfBookableSeats": 1,
+                "class": "O"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "Y"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "B"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "M"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "L"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "E"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "K"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "V"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "H"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "S"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "R"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "U"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "T"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "Q"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "P"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "A"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "flight-availability",
+        "id": "11",
+        "originDestinationId": "1",
+        "source": "GDS",
+        "instantTicketingRequired": false,
+        "paymentCardRequired": false,
+        "duration": "PT19H50M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "BOS",
+              "terminal": "E",
+              "at": "2026-11-14T20:25:00"
+            },
+            "arrival": {
+              "iataCode": "LHR",
+              "terminal": "4",
+              "at": "2026-11-15T08:05:00"
+            },
+            "carrierCode": "6X",
+            "number": "214",
+            "aircraft": {
+              "code": "772"
+            },
+            "id": "83",
+            "numberOfStops": 0,
+            "blacklistedInEU": false,
+            "availabilityClasses": [
+              {
+                "numberOfBookableSeats": 7,
+                "class": "F"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "J"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "D"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "I"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "W"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "Y"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "B"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "H"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "K"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "M"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "G"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "X"
+              }
+            ]
+          },
+          {
+            "departure": {
+              "iataCode": "LHR",
+              "terminal": "1",
+              "at": "2026-11-15T18:55:00"
+            },
+            "arrival": {
+              "iataCode": "MAD",
+              "terminal": "1",
+              "at": "2026-11-15T22:15:00"
+            },
+            "carrierCode": "6X",
+            "number": "462",
+            "aircraft": {
+              "code": "734"
+            },
+            "id": "84",
+            "numberOfStops": 0,
+            "blacklistedInEU": false,
+            "availabilityClasses": [
+              {
+                "numberOfBookableSeats": 7,
+                "class": "C"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "D"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "I"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "Y"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "B"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "H"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "K"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "M"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "L"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "N"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "O"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "S"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "Q"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "flight-availability",
+        "id": "12",
+        "originDestinationId": "1",
+        "source": "GDS",
+        "instantTicketingRequired": false,
+        "paymentCardRequired": false,
+        "duration": "PT19H50M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "BOS",
+              "terminal": "E",
+              "at": "2026-11-14T20:25:00"
+            },
+            "arrival": {
+              "iataCode": "LHR",
+              "terminal": "4",
+              "at": "2026-11-15T08:05:00"
+            },
+            "carrierCode": "6X",
+            "number": "214",
+            "aircraft": {
+              "code": "772"
+            },
+            "id": "85",
+            "numberOfStops": 0,
+            "blacklistedInEU": false,
+            "availabilityClasses": [
+              {
+                "numberOfBookableSeats": 7,
+                "class": "F"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "J"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "D"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "I"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "W"
+              },
+              {
+                "numberOfBookableSeats": 9,
+                "class": "Y"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "B"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "H"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "K"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "M"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "G"
+              },
+              {
+                "numberOfBookableSeats": 7,
+                "class": "X"
+              }
+            ]
+          },
+          {
+            "departure": {
+              "iataCode": "LHR",
+              "at": "2026-11-15T18:55:00"
+            },
+            "arrival": {
+              "iataCode": "MAD",
+              "at": "2026-11-15T22:15:00"
+            },
+            "carrierCode": "7X",
+            "number": "4462",
+            "aircraft": {
+              "code": "734"
+            },
+            "operating": {
+              "carrierCode": "6X"
+            },
+            "id": "86",
+            "numberOfStops": 0,
+            "blacklistedInEU": false,
+            "availabilityClasses": [
+              {
+                "numberOfBookableSeats": 1,
+                "class": "J"
+              },
+              {
+                "numberOfBookableSeats": 1,
+                "class": "D"
+              },
+              {
+                "numberOfBookableSeats": 1,
+                "class": "I"
+              },
+              {
+                "numberOfBookableSeats": 1,
+                "class": "U"
+              },
+              {
+                "numberOfBookableSeats": 1,
+                "class": "Y"
+              },
+              {
+                "numberOfBookableSeats": 1,
+                "class": "B"
+              },
+              {
+                "numberOfBookableSeats": 1,
+                "class": "H"
+              },
+              {
+                "numberOfBookableSeats": 1,
+                "class": "K"
+              },
+              {
+                "numberOfBookableSeats": 1,
+                "class": "M"
+              },
+              {
+                "numberOfBookableSeats": 1,
+                "class": "L"
+              },
+              {
+                "numberOfBookableSeats": 1,
+                "class": "S"
+              },
+              {
+                "numberOfBookableSeats": 1,
+                "class": "V"
+              },
+              {
+                "numberOfBookableSeats": 1,
+                "class": "O"
+              },
+              {
+                "numberOfBookableSeats": 1,
+                "class": "Q"
+              },
+              {
+                "numberOfBookableSeats": 1,
+                "class": "N"
+              },
+              {
+                "numberOfBookableSeats": 1,
+                "class": "G"
+              },
+              {
+                "numberOfBookableSeats": 1,
+                "class": "T"
+              },
+              {
+                "numberOfBookableSeats": 1,
+                "class": "X"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "dictionaries": {
+      "locations": {
+        "MAD": {
+          "cityCode": "MAD",
+          "countryCode": "ES"
+        },
+        "LHR": {
+          "cityCode": "LON",
+          "countryCode": "GB"
+        },
+        "BOS": {
+          "cityCode": "BOS",
+          "countryCode": "US"
+        },
+        "CDG": {
+          "cityCode": "PAR",
+          "countryCode": "FR"
+        },
+        "ORY": {
+          "cityCode": "PAR",
+          "countryCode": "FR"
+        },
+        "LGW": {
+          "cityCode": "LON",
+          "countryCode": "GB"
+        }
+      }
+    }
+  }
